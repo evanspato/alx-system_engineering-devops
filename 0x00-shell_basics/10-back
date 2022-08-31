@@ -1,0 +1,2 @@
+#!/bin/bash 10-back
+ln -s /bin/ls _ls_
